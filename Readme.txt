@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name : Rishabh Kumar
+Portfolio URL: https://alphacoder1998.github.io/portfolio/
+Author: Rishabh kumar
+License: GNU.
